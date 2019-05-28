@@ -12,7 +12,7 @@ client.on('guildMemberAdd', member => {
 // Change 'Channel-Name' to whatever channel you want the welcome message to be in!
     const embed = new RichEmbed()
     //This is where you start writing your embed, I will include as many features as I can in this!
-    .setAuthor('<*Server Name*!>', `<${client.user.avatarURL}>`)//This is going to be on the very top of the Embed, For the Author Thumnail im going to put the Bot's Profile Picture, I'm just testing this out, this wasnt planned, Don't blame me if it goes wrong :)
+    .setAuthor('<*Server Name*!>;)//This is going to be on the very top of the Embed, For the Author Thumnail im going to put the Bot's Profile Picture, I'm just testing this out, this wasnt planned, Don't blame me if it goes wrong :)
     .setTitle(`<Welcome to *Server Name*, ${member.displayName}>!`)//This will be the second line below .setAuthor, This will say "Welcome to *Server Name*, *Name of person who joined*"
     .setColor(<0xF08080>)//This is the color of the bar that is going to be on your embed, You only want to change the part after `0x`. The Colors are in Hex code. If I were to change it from the Coral Red to Teal i would change it from .setColor(0xF08080) to .setColor(0x008080)
     .setDescription(`<Welcome to *Server Name*, ${member.displayName}\nYou are currently in ${channel.name}!\n${guild.member.size}>`)//This a gray box that would be like normal discord text, You can use the markup language like ```Message``` or ``Message``, ectetera
@@ -28,7 +28,7 @@ client.on('guildMemberAdd', member => {
 
     if (!channel) return;//This is basically saying: If it finds ch.name
     channel.send({embed})//it will return with this embed
-})
+});
 client.login('Bot-Token') //Change This
 //
 // EXTRA COMMITS
