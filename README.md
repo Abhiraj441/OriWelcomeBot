@@ -1,4 +1,5 @@
 # Oribuin's Welcome Bot
+## READ THE README.txt ASWELL
 ## Join Oribuin's MC Server Discord! (https://discord.gg/c5JgrnA)
 
 ## - How to Setup - (WINDOWS)
