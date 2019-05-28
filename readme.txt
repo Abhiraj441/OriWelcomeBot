@@ -16,6 +16,8 @@ JSON Folders don't allow commits so they're in here
 
 DONT USE CONFIG.JSON IF YOU ARE PLANNING TO USE IT AS A WELCOME BOT ONLY
 
-If you are adding extra commands:
+CONFIG.JSON: WHAT TO CHANGE
+Change anything surrounded by []
 
-Change the parts inside []
+INDEX.JS: WHAT TO CHANGE
+Change anything surrounded by <>
