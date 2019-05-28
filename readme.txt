@@ -17,7 +17,11 @@ JSON Folders don't allow commits so they're in here
 DONT USE CONFIG.JSON IF YOU ARE PLANNING TO USE IT AS A WELCOME BOT ONLY
 
 CONFIG.JSON: WHAT TO CHANGE
-Change anything surrounded by []
+Change anything that is surrounded by []
+Remove the [] Once its changed
 
 INDEX.JS: WHAT TO CHANGE
-Change anything surrounded by <>
+Change anything surrounded by <> if you want to
+Remove the <> once its changed 
+
+IF YOU DO NOT REMOVE THE <> OR [] THE BOT WILL NOT WORK OR WILL JUST HAVE <> AS EVERY MESSAGE IN EMBED
