@@ -11,3 +11,11 @@ https://github.com/Oribuin/OriWelcomeBot/blob/master/README.md
 
 Change The fields to whatever you wish it to be in any of the places where it has '', `` or ""
 I recommend you don't touch anything else unless you know how to use Discord.js!
+
+JSON Folders don't allow commits so they're in here
+
+DONT USE CONFIG.JSON IF YOU ARE PLANNING TO USE IT AS A WELCOME BOT ONLY
+
+If you are adding extra commands:
+
+Change the parts inside []
