@@ -1,13 +1,4 @@
-# Oribuin's Welcome Bot
-## READ THE README.txt ASWELL
-## Join Oribuin's MC Server Discord! (https://discord.gg/c5JgrnA)
 
-## - How to Setup - (WINDOWS)
-I don't own a MacOS/Linux so I can't tell you how to do it on a Mac or Linux you will have to search
-### Create your bot & invite it to your server
-https://discordapp.com/developers/applications If you can't figure out how, Follow the steps here: https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/
-
-I recommend you get a spare account or a friend on discord to test the join feature on the Bot! Everytime you save the code you will have to restart the bot by pressing CTRL + C & type ``node .`` again.
 
 ### 1. Install node.js
 ### 2. Create a folder & Name it whatever you wish. If you are going to have numerous bots, I recommend you have a Desktop  
